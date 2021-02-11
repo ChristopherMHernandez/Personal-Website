@@ -1,0 +1,47 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+li {
+  float: left;
+}
+
+a li {
+  font-size: 1.2rem;
+  display: flex;
+  color: white;
+  text-align: center;
+  padding: 10px 40px;
+  text-decoration: 2.8rem;
+  margin: 4px;
+}
+
+
+a li:hover {
+  background-color: #111;
+}
+header{
+  color:white;
+font-size: 0.9rem;
+}
+section {
+  line-height: 50px;
+  border-height:20px;
+  border: 1px solid ;
+  border-width: 10px;
+  text-align: center;
+  color: white
+  ;
+  background-color: #800000;
+  width: 700px;
+  height: 200px;
+  position:relative;
+  margin: auto;
+  padding-top: 20px;
+  font-size: 1.2rem;
+}
+
